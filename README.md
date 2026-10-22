@@ -2,7 +2,7 @@
 
 ### Ansem.tips (TIPANSEM) - FINAL MASTER - All Data Verified
 
-[RUGRIOT Logo](./image_0caf07.png)
+![RUGRIOT Logo](./image_0caf07.png)
 
 > **BOUNTY SUBMISSION - TRAINING MATERIAL - FOR RUGRIOT SCAN DATABASE - EXAMPLE #005**  
 > **Public blockchain data only • No harassment • No private personal info • No unsupported accusations**
